@@ -9,13 +9,14 @@ Speaker: Paul Duncan [@dexterperrin](http://twitter.com/dexterperrin)
 ## Web Fonts Performance
 Speaker: Bram Stein [@bram_stein](https://twitter.com/bram_stein)
 
-Talk: Web Fonts Performance [*slides*](https://speakerdeck.com/bramstein/web-fonts-performance)  [*blog*](http://bramstein.com/writing/web-font-loading-patterns.html)
+ - [Slides](https://speakerdeck.com/bramstein/web-fonts-performance)  
+ - [Blog Post](http://bramstein.com/writing/web-font-loading-patterns.html)
 
 
 ## Responsive Color
 Speaker: Clarissa Peterson [@clarissa](https://twitter.com/clarissa)
 
-Talk: Responsive Color [*slides*](http://www.slideshare.net/clarissapeterson/colorincss)
+ - [Slides](http://www.slideshare.net/clarissapeterson/colorincss)
 
 
 ## I Lodash
@@ -25,24 +26,25 @@ Speaker: John-David Dalton [@jdalton](http://twitter.com/jdalton)
 ## Testing the Cascade
 Speaker: Hans Sprecher [@honzie](https://twitter.com/honzie)
 
-Talk: Unit Testing CSS [*slides*](https://github.com/honzie/testing-the-cascade)
+ - [Slides](https://github.com/honzie/testing-the-cascade)
 
 
 ## Internet of Cats
 Speaker: Rachel White [@ohhoe](http://twitter.com/ohhoe)
 
-Code: [robokitty](https://t.co/EMB1OBLBz3)
+ - [Robokitty Code](https://t.co/EMB1OBLBz3)
 
 
 ## Usefulness of Uselessness
 Speaker: Brad Bouse [@bradbouse](https://twitter.com/bradbouse)
 
-Talk: Usefulness of Uselessness [*slides*](http://www.wholepixel.com/webdevcon/index.html#/)
+ - [Slides](http://www.wholepixel.com/webdevcon/index.html#/)
 
 
 ## Building Distributed RESTful JSON APIs with Falcor
 Speaker Paul Taylor [@trxcllnt](https://twitter.com/trxcllnt)
 
+ - [Demo Code](https://github.com/trxcllnt/webDevCon-demo)
 
 ## Front End Development Evolution at Amazon
 Speaker: Cynthia Mai & Betty Tso
