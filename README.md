@@ -20,43 +20,44 @@ A collection of the slides and resources from Amazon's [WebDevCon](http://webdev
 
 
 ## I, Lodash
-John-David Dalton ([@jdalton](http://twitter.com/jdalton))
+*John-David Dalton ([@jdalton](http://twitter.com/jdalton))*
 
  - [Slides](https://docs.google.com/presentation/d/1dci5_mMKUfmm9Ws_VjfD9Q2tvcoB7feq_KylazxgncY/edit#slide=id.i0)
  - [lodash on GitHub](https://github.com/lodash/lodash)
 
 
 ## Testing the Cascade
-Hans Sprecher ([@honzie](https://twitter.com/honzie))
+*Hans Sprecher ([@honzie](https://twitter.com/honzie))*
 
  - [Slides](https://github.com/honzie/testing-the-cascade)
 
 
 ## Internet of Cats
-Rachel White ([@ohhoe](http://twitter.com/ohhoe))
+*Rachel White ([@ohhoe](http://twitter.com/ohhoe))*
 
  - [Robokitty Code on GitHub](https://t.co/EMB1OBLBz3)
 
 
 ## Usefulness of Uselessness
-Brad Bouse ([@bradbouse](https://twitter.com/bradbouse))
+*Brad Bouse ([@bradbouse](https://twitter.com/bradbouse))*
 
  - [Slides](http://www.wholepixel.com/webdevcon/index.html#/)
 
 
 ## Building Distributed RESTful JSON APIs with Falcor
-Paul Taylor ([@trxcllnt](https://twitter.com/trxcllnt))
+*Paul Taylor ([@trxcllnt](https://twitter.com/trxcllnt))*
 
  - [Demo Code](https://github.com/trxcllnt/webDevCon-demo)
 
 ## Front End Development Evolution at Amazon
-Cynthia Mai & Betty Tso
+*Cynthia Mai & Betty Tso*
 
 
 ## Design for Non-Designers
-[Tracy Osborn](http://www.limedaring.com/) ([@limedaring](http://twitter.com/limedaring))
+*[Tracy Osborn](http://www.limedaring.com/) ([@limedaring](http://twitter.com/limedaring))*
 
- - [Video from FluentConf 2016](https://www.oreilly.com/ideas/the-entire-history-of-design-principles-1322-2016-abridged)
+ - [Slides](https://speakerdeck.com/limedaring/design-for-non-designers-webdevcon)
+ - [Video of similar talk from FluentConf 2016](https://www.oreilly.com/ideas/the-entire-history-of-design-principles-1322-2016-abridged)
  - Recommended resources
   - [Typewolf](https://www.typewolf.com/)
   - [google-type](http://femmebot.github.io/google-type/)
@@ -65,20 +66,20 @@ Cynthia Mai & Betty Tso
   - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 
 ## Observable Web
-Ganesh Shanmugasundaram ([@hackerone](http://twitter.com/hackerone))
+*Ganesh Shanmugasundaram ([@hackerone](http://twitter.com/hackerone))*
 
 
 ## Supercharged Hybrid Apps: Web Components + JS Interface
-[Chris Tserng](https://www.linkedin.com/in/christopher-tserng-06b19561)
+*[Chris Tserng](https://www.linkedin.com/in/christopher-tserng-06b19561)*
 
 
 ## Simply Accessible Web Performance
-Estelle Weyl ([@estellevw](http://twitter.com/estellevw))
+*Estelle Weyl ([@estellevw](http://twitter.com/estellevw))*
 
 
 ## Development Experience with React Navtive
-Alex Kotliarskyi ([@alex_frantic](http://twitter.com/alex_frantic))
+*Alex Kotliarskyi ([@alex_frantic](http://twitter.com/alex_frantic))*
 
 
 ## "To Be Decided..."
-Patrick Beer ([@pabera](http://twitter.com/pabera))
+*Patrick Beer ([@pabera](http://twitter.com/pabera))*
