@@ -19,8 +19,11 @@ Speaker: Clarissa Peterson [@clarissa](https://twitter.com/clarissa)
  - [Slides](http://www.slideshare.net/clarissapeterson/colorincss)
 
 
-## I Lodash
+## I, Lodash
 Speaker: John-David Dalton [@jdalton](http://twitter.com/jdalton)
+
+ - [Slides](https://docs.google.com/presentation/d/1dci5_mMKUfmm9Ws_VjfD9Q2tvcoB7feq_KylazxgncY/edit#slide=id.i0)
+ - [lodash on GitHub](https://github.com/lodash/lodash)
 
 
 ## Testing the Cascade
@@ -32,7 +35,7 @@ Speaker: Hans Sprecher [@honzie](https://twitter.com/honzie)
 ## Internet of Cats
 Speaker: Rachel White [@ohhoe](http://twitter.com/ohhoe)
 
- - [Robokitty Code](https://t.co/EMB1OBLBz3)
+ - [Robokitty Code on GitHub](https://t.co/EMB1OBLBz3)
 
 
 ## Usefulness of Uselessness
