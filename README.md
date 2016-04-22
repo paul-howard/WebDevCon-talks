@@ -35,6 +35,8 @@ A collection of the slides and resources from Amazon's [WebDevCon](http://webdev
 ## Internet of Cats
 *Rachel White ([@ohhoe](http://twitter.com/ohhoe))*
 
+ - [Slides](http://imcool.online/robokitty/robokitty-slides.pdf)
+ - [Video of similar talk from Node Interactive 2015](https://www.youtube.com/watch?v=cEIYSOxDiqE)
  - [Robokitty Code on GitHub](https://t.co/EMB1OBLBz3)
 
 
@@ -76,6 +78,7 @@ A collection of the slides and resources from Amazon's [WebDevCon](http://webdev
 ## Simply Accessible Web Performance
 *Estelle Weyl ([@estellevw](http://twitter.com/estellevw))*
 
+ - [Slides](http://instartlogic.github.io/p/webdevcon/#slide1)
 
 ## Development Experience with React Navtive
 *Alex Kotliarskyi ([@alex_frantic](http://twitter.com/alex_frantic))*
